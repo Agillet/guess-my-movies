@@ -1,0 +1,9 @@
+{
+  "name": "github-actions-movie-selector",
+  "version": "1.0.0",
+  "main": "selectRandomMovie.js",
+  "scripts": {
+    "start": "node selectRandomMovie.js"
+  },
+  "dependencies": {}
+}
