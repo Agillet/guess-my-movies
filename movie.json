@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
+  "genre_ids": [
+    878,
+    53,
+    18
+  ],
+  "id": 49047,
+  "original_language": "en",
+  "original_title": "Gravity",
+  "overview": "Pour sa première expédition à bord d'une navette spatiale, le docteur Ryan Stone, brillante experte en ingénierie médicale, accompagne l'astronaute chevronné Matt Kowalski qui effectue son dernier vol avant de prendre sa retraite. Mais alors qu'il s'agit apparemment d'une banale sortie dans l'espace, une catastrophe se produit. Lorsque la navette est pulvérisée, Stone et Kowalski se retrouvent totalement seuls, livrés à eux-mêmes dans l'univers...",
+  "popularity": 358.687,
+  "poster_path": "/cPrUo65h0CDXsAB9t3yL6wfv6j1.jpg",
+  "release_date": "2013-10-23",
+  "title": "Gravity",
+  "video": false,
+  "vote_average": 7.164,
+  "vote_count": 14932
+}
