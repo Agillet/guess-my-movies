@@ -1,20 +1,22 @@
 {
   "adult": false,
-  "backdrop_path": "/5ccklJJR9McV3nzAgurdbc5nAlz.jpg",
+  "backdrop_path": "/qYElKFSiqR5W2SivmHq5QZucje8.jpg",
   "genre_ids": [
     878,
     27,
-    28
+    28,
+    9648,
+    12
   ],
-  "id": 9348,
+  "id": 340102,
   "original_language": "en",
-  "original_title": "Species",
-  "overview": "Apres avoir lancé un message à travers l'espace sur l'existence de notre espèce, une équipe scientifique reçoit la réponse vingt ans plus tard sous la forme d'un échantillon d'ADN extraterrestre. Sous la direction du docteur Xavier Fitch, les Américains tentent en secret une expérience de fécondation.",
-  "popularity": 298.414,
-  "poster_path": "/sNgVQl57XYrWGH3L1rYa3iipf2M.jpg",
-  "release_date": "1995-09-27",
-  "title": "La Mutante",
+  "original_title": "The New Mutants",
+  "overview": "Les Mutants sont les plus dangereux, pour eux-mêmes comme pour les autres, lorsqu’ils découvrent leurs pouvoirs. Détenus dans une division secrète contre leur volonté,  cinq nouveaux mutants doivent apprivoiser leurs dons et assumer les erreurs graves de leur passé. Traqués par une puissance surnaturelle, leurs peurs les plus terrifiantes vont devenir réalité.",
+  "popularity": 229.448,
+  "poster_path": "/kjot4mzVlUuCu87se0bBAyjkrJK.jpg",
+  "release_date": "2020-08-26",
+  "title": "Les Nouveaux Mutants",
   "video": false,
-  "vote_average": 6,
-  "vote_count": 1558
+  "vote_average": 6.112,
+  "vote_count": 3276
 }
