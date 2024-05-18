@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Read the movies.json file
-const moviesData = JSON.parse(fs.readFileSync('movies.json', 'utf8'));
+const moviesData = JSON.parse(fs.readFileSync('list.json', 'utf8'));
 
 // Select a random movie
 const randomIndex = Math.floor(Math.random() * moviesData.movies.length);
