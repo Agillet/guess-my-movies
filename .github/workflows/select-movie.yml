@@ -31,6 +31,7 @@ jobs:
         run: |
           git config --global user.name 'Agillet'
           git config --global user.email 'Agillet@users.noreply.github.com'
+          git reset --hard origin main
           git pull
           git add movie.json
           git commit -m 'Update movie.json with a random movie'
