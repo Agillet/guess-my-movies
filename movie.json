@@ -1,22 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/qYElKFSiqR5W2SivmHq5QZucje8.jpg",
+  "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
   "genre_ids": [
-    878,
-    27,
-    28,
-    9648,
-    12
+    18,
+    10749,
+    878
   ],
-  "id": 340102,
+  "id": 274870,
   "original_language": "en",
-  "original_title": "The New Mutants",
-  "overview": "Les Mutants sont les plus dangereux, pour eux-mêmes comme pour les autres, lorsqu’ils découvrent leurs pouvoirs. Détenus dans une division secrète contre leur volonté,  cinq nouveaux mutants doivent apprivoiser leurs dons et assumer les erreurs graves de leur passé. Traqués par une puissance surnaturelle, leurs peurs les plus terrifiantes vont devenir réalité.",
-  "popularity": 229.448,
-  "poster_path": "/kjot4mzVlUuCu87se0bBAyjkrJK.jpg",
-  "release_date": "2020-08-26",
-  "title": "Les Nouveaux Mutants",
+  "original_title": "Passengers",
+  "overview": "Jim et Aurora sont deux passagers à bord d’un vaisseau spatial qui les transporte sur une nouvelle planète pour une nouvelle vie. Le voyage prend une tournure mortelle lorsque leurs capsules d’hibernation les réveillent 90 ans avant d’atteindre leur destination. Alors qu'ils essaient de lever le mystère sur ce dysfonctionnement, ils commencent à tomber amoureux, incapables de nier leur intense attraction… seulement pour être menacés par l’effondrement de leur vaisseau et la découverte de la vérité sur leur réveil.",
+  "popularity": 202.696,
+  "poster_path": "/o42I8c12vtqDBg9oqrUK7dzfH4e.jpg",
+  "release_date": "2016-12-28",
+  "title": "Passengers",
   "video": false,
-  "vote_average": 6.112,
-  "vote_count": 3276
+  "vote_average": 6.944,
+  "vote_count": 12876
 }
