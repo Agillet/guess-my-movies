@@ -5,5 +5,7 @@
   "scripts": {
     "start": "node selectRandomMovie.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
