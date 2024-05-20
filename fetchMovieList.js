@@ -2,11 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
 
-// Replace with your API URL
-const apiUrl = 'https://api.example.com/data?page=';
-
-
-const url = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&release_date.gte=1970-01-01&sort_by=popularity.desc&vote_average.gte=6&vote_count.gte=1000&page=';
+const apiUrl = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&release_date.gte=1970-01-01&sort_by=popularity.desc&vote_average.gte=6&vote_count.gte=1000&page=';
 const options = {
   method: 'GET',
   headers: {
