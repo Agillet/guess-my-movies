@@ -1,20 +1,19 @@
 {
   "adult": false,
-  "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+  "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
   "genre_ids": [
-    28,
-    12,
-    878
+    35,
+    14
   ],
-  "id": 634649,
+  "id": 620,
   "original_language": "en",
-  "original_title": "Spider-Man: No Way Home",
-  "overview": "Après les événements liés à l'affrontement avec Mysterio, l'identité secrète de Spider-Man a été révélée. Il est poursuivi par le gouvernement américain, qui l'accuse du meurtre de Mysterio, et traqué par les médias. Cet événement a également des conséquences terribles sur la vie de sa petite-amie M.J. et de son meilleur ami Ned. Désemparé, Peter Parker demande alors de l'aide au docteur Strange. Ce dernier lance un sort pour que tout le monde oublie que Peter est Spider-Man. Mais les choses ne se passent pas comme prévu, et cette action altère la stabilité de l'espace-temps. Cela ouvre le « multivers », un concept terrifiant dont ils ne savent quasiment rien...",
-  "popularity": 242.257,
-  "poster_path": "/3SyG7dq2q0ollxJ4pSsrqcfRmVj.jpg",
-  "release_date": "2021-12-15",
-  "title": "Spider-Man : No Way Home",
+  "original_title": "Ghostbusters",
+  "overview": "La soudaine recrudescence de phénomènes paranormaux inquiète les habitants de New York. Des revenants sèment la pagaille dans les rues de la ville ! Peter, Raymond et Egon, trois jeunes chercheurs en parapsychologie, décident de monter leur propre entreprise : SOS Fantômes. Les ectoplasmes n'ont qu'à bien se tenir car nos trois joyeux lurons se feront un plaisir de les capturer à l'aide de leur équipement électronique dernier cri.",
+  "popularity": 318.785,
+  "poster_path": "/7tUH0rvI9Bdnjn6U3jgRjeH42kJ.jpg",
+  "release_date": "1984-12-12",
+  "title": "S.O.S. Fantômes",
   "video": false,
-  "vote_average": 7.967,
-  "vote_count": 19386
+  "vote_average": 7.485,
+  "vote_count": 8617
 }
