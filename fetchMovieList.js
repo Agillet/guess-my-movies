@@ -19,7 +19,7 @@ const fetchPage = async (page) => {
             throw new Error(`Error fetching page ${page}: ${response.statusText}`);
         }
         const data = await response.json();
-        return data; // Adjust this based on the structure of your API response
+        return data.results; // Adjust this based on the structure of your API response
     } catch (error) {
         console.error(error);
         return [];
@@ -40,7 +40,8 @@ const fetchAllPages = async () => {
 };
 
 const writeToFile = (data, filePath) => {
-    fs.writeFile(filePath, JSON.stringify(data, null, 2), (err) => {
+    const outputData = { movies: data };
+    fs.writeFile(filePath, JSON.stringify(outputData, null, 2), (err) => {
         if (err) {
             console.error('Error writing to file:', err);
         } else {
@@ -48,7 +49,6 @@ const writeToFile = (data, filePath) => {
         }
     });
 };
-
 const main = async () => {
     const data = await fetchAllPages();
     const outputFilePath = path.join(__dirname, 'list.json');
