@@ -6,7 +6,7 @@ const path = require('path');
 const apiUrl = 'https://api.example.com/data?page=';
 
 
-const url = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&release_date.gte=1970-01-01&sort_by=popularity.desc&vote_average.gte=6&vote_count.gte=1000&page=;
+const url = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&release_date.gte=1970-01-01&sort_by=popularity.desc&vote_average.gte=6&vote_count.gte=1000&page=';
 const options = {
   method: 'GET',
   headers: {
@@ -55,7 +55,7 @@ const writeToFile = (data, filePath) => {
 
 const main = async () => {
     const data = await fetchAllPages();
-    const outputFilePath = path.join(__dirname, 'output.json');
+    const outputFilePath = path.join(__dirname, 'list.json');
     writeToFile(data, outputFilePath);
 };
 
