@@ -1,20 +1,21 @@
 {
   "adult": false,
-  "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+  "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
   "genre_ids": [
-    28,
-    12,
-    878
+    16,
+    10751,
+    14,
+    12
   ],
-  "id": 424783,
+  "id": 1022796,
   "original_language": "en",
-  "original_title": "Bumblebee",
-  "overview": "1987 - Alors qu'il est en fuite, l'Autobot Bumblebee trouve refuge dans la décharge d'une petite ville balnéaire de Californie. Il est découvert, brisé et couvert de blessures de guerre, par Charlie, une ado qui approche de ses 18 ans et cherche sa place dans le monde. Et quand elle le met en marche, elle se rend vite compte qu'il ne s'agit pas d'une voiture jaune ordinaire.",
-  "popularity": 214.869,
-  "poster_path": "/jAWcwnGUhDn9SGSjhDFAbWmh9A7.jpg",
-  "release_date": "2018-12-15",
-  "title": "Bumblebee",
+  "original_title": "Wish",
+  "overview": "Asha vit à Rosas, un royaume où tous les souhaits peuvent littéralement s'exaucer. Dans un moment de désespoir, elle adresse un vœu aux étoiles auquel va répondre une force cosmique :  une petite boule d'énergie infinie prénommée Star. Avec son aide, Asha doit sauver son royaume d'un roi et prouver que lorsque le courage d'un humain se lie à la magie des étoiles, de merveilleuses choses peuvent arriver.",
+  "popularity": 210.734,
+  "poster_path": "/g3wF6T4xa727p4W3A44oFqM3XTm.jpg",
+  "release_date": "2023-11-13",
+  "title": "Wish, Asha et la bonne étoile",
   "video": false,
-  "vote_average": 6.724,
-  "vote_count": 5890
+  "vote_average": 6.467,
+  "vote_count": 1200
 }
