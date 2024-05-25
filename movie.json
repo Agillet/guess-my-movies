@@ -1,19 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+  "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
   "genre_ids": [
-    36,
-    18
+    18,
+    10749,
+    878
   ],
-  "id": 467244,
+  "id": 274870,
   "original_language": "en",
-  "original_title": "The Zone of Interest",
-  "overview": "Le commandant d'Auschwitz Rudolf Höss et son épouse Hedwig réalisent sur un terrain directement adjacent au mur du camp leur vision d'une vie de rêve avec une famille nombreuse, une maison et un grand jardin. Cependant, lorsque Rudolf doit être muté à Oranienburg, leur petite vie idéale menace de s'effondrer et il cache l'information à son épouse. Quand Hedwig l'apprend, elle refuse de quitter sa maison de rêve.",
-  "popularity": 146.014,
-  "poster_path": "/wD2eFNkSLV0ACM9C82qIYfTMFv9.jpg",
-  "release_date": "2023-12-15",
-  "title": "La Zone d'intérêt",
+  "original_title": "Passengers",
+  "overview": "Jim et Aurora sont deux passagers à bord d’un vaisseau spatial qui les transporte sur une nouvelle planète pour une nouvelle vie. Le voyage prend une tournure mortelle lorsque leurs capsules d’hibernation les réveillent 90 ans avant d’atteindre leur destination. Alors qu'ils essaient de lever le mystère sur ce dysfonctionnement, ils commencent à tomber amoureux, incapables de nier leur intense attraction… seulement pour être menacés par l’effondrement de leur vaisseau et la découverte de la vérité sur leur réveil.",
+  "popularity": 196.488,
+  "poster_path": "/o42I8c12vtqDBg9oqrUK7dzfH4e.jpg",
+  "release_date": "2016-12-21",
+  "title": "Passengers",
   "video": false,
-  "vote_average": 7.201,
-  "vote_count": 1304
+  "vote_average": 6.944,
+  "vote_count": 12880
 }
