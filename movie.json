@@ -1,20 +1,22 @@
 {
   "adult": false,
-  "backdrop_path": "/ovggmAOu1IbPGTQE8lg4lBasNC7.jpg",
+  "backdrop_path": "/dA7YLnc5ztTGiVPWz3GsaMRRz9r.jpg",
   "genre_ids": [
-    14,
+    18,
+    10749,
     878,
-    12
+    53,
+    9648
   ],
-  "id": 412656,
+  "id": 376134,
   "original_language": "en",
-  "original_title": "Chaos Walking",
-  "overview": "Dans un futur proche, les femmes ont disparu. Le monde de Todd Hewitt n’est habité que par des hommes, tous soumis au Bruit, une mystérieuse force qui révèle leurs pensées et permet à chacun de connaître celles des autres. Lorsqu’une jeune femme, Viola, atterrit en catastrophe sur cette planète, elle s’y retrouve en grand danger… Todd jure de la protéger mais, pour réussir, il va devoir révéler sa force intérieure et percer les sombres secrets qui étouffent son monde…",
-  "popularity": 144.929,
-  "poster_path": "/aDgMdqlX7bcDuQznDMTOq7iEm68.jpg",
-  "release_date": "2021-02-24",
-  "title": "Chaos Walking",
+  "original_title": "The Discovery",
+  "overview": "L'histoire d'amour entre une femme au passé tragique et le fils de celui qui a prouvé l'existence de la vie après la mort.",
+  "popularity": 112.514,
+  "poster_path": "/zfxNML0RGb4jB0nSM87rcNUlnFW.jpg",
+  "release_date": "2017-03-31",
+  "title": "The Discovery",
   "video": false,
-  "vote_average": 6.593,
-  "vote_count": 2187
+  "vote_average": 6.293,
+  "vote_count": 1270
 }
