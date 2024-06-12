@@ -1,19 +1,21 @@
 {
   "adult": false,
-  "backdrop_path": "/5QRRdnMWtAeu8Zgje2Gdwuo7gd6.jpg",
+  "backdrop_path": "/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
   "genre_ids": [
-    27,
-    9648
+    28,
+    35,
+    80,
+    53
   ],
-  "id": 4233,
+  "id": 9737,
   "original_language": "en",
-  "original_title": "Scream 2",
-  "overview": "Phil Stevens et sa copine Maureen Evans sortent ensemble voir en avant‑première le film « Stab », inspirée de la tuerie de la ville de Woodsboro l'année précédente. Le public porte d'ailleurs en grande partie le costume du tueur. Mais parmi les fans déchaînés se cachent un nouvel assassin, qui poignarde devant toute l'audience la pauvre Maureen… Sidney Prescott, une des réelles survivantes du premier massacre, s'est inscrit à la fac de Windsor où elle apprend l'art dramatique, avec son ami Randy. Mais avec ce nouveau fait divers, la jeune femme prend peur et ne peut à nouveau plus faire confiance en personne. Surtout qu'un meurtre intervient dans l'enceinte même du campus : la jeune Casey Cooper a été défenestré après avoir subi deux coups de couteau. Pour Sidney, ça ne fait aucun doute : le cauchemar recommence. Mais qui peut donc s'acharner à vouloir sa mort ? Et pourquoi ?",
-  "popularity": 102.428,
-  "poster_path": "/tQjkmhosfaZRllklX7P92xBO62o.jpg",
-  "release_date": "1997-12-12",
-  "title": "Scream 2",
+  "original_title": "Bad Boys",
+  "overview": "Si Mike Lowrey est un séducteur invéteré, héritier d'une fortune et policier par passion, son collègue et ami Marcus Burnett est un homme rangé, marié et père de famille. Leur amitié ne les empêche pas d'avoir des méthodes parfaitement différentes. Mais la disparition de cent kilos d'héroine, dérobés dans les locaux mêmes de la brigade des stups, va leur faire oublier leur concept sur la façon d'exercer leur métier, pour se lancer a la poursuite des voleurs.",
+  "popularity": 390.584,
+  "poster_path": "/at4ZF98aNjML2IeauN0dnbm6aJ5.jpg",
+  "release_date": "1995-04-07",
+  "title": "Bad Boys",
   "video": false,
-  "vote_average": 6.493,
-  "vote_count": 3989
+  "vote_average": 6.797,
+  "vote_count": 6035
 }
