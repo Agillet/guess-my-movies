@@ -1,21 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+  "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
   "genre_ids": [
-    28,
-    35,
-    80,
-    53
+    12,
+    14,
+    28
   ],
-  "id": 9737,
+  "id": 10195,
   "original_language": "en",
-  "original_title": "Bad Boys",
-  "overview": "Si Mike Lowrey est un séducteur invéteré, héritier d'une fortune et policier par passion, son collègue et ami Marcus Burnett est un homme rangé, marié et père de famille. Leur amitié ne les empêche pas d'avoir des méthodes parfaitement différentes. Mais la disparition de cent kilos d'héroine, dérobés dans les locaux mêmes de la brigade des stups, va leur faire oublier leur concept sur la façon d'exercer leur métier, pour se lancer a la poursuite des voleurs.",
-  "popularity": 390.584,
-  "poster_path": "/at4ZF98aNjML2IeauN0dnbm6aJ5.jpg",
-  "release_date": "1995-04-07",
-  "title": "Bad Boys",
+  "original_title": "Thor",
+  "overview": "Thor, le héros du nouveau film issu de l'univers Marvel, est un guerrier tout-puissant et arrogant dont les actes téméraires font renaître de nos jours un conflit ancestral. À cause de cela, il est banni du Royaume mythique d’Asgard et est condamné à vivre parmi les humains. Mais lorsque les forces du Mal d’Asgard s’apprêtent à envahir la Terre, Thor découvre enfin ce que signifie \"être un héros\".",
+  "popularity": 78.975,
+  "poster_path": "/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg",
+  "release_date": "2011-04-21",
+  "title": "Thor",
   "video": false,
-  "vote_average": 6.797,
-  "vote_count": 6035
+  "vote_average": 6.768,
+  "vote_count": 20696
 }
