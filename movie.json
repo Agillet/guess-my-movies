@@ -1,20 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+  "backdrop_path": "/vMDdWQuvOjg9yUjMJrNunXq9cmw.jpg",
   "genre_ids": [
+    878,
     12,
-    14,
-    28
+    9648
   ],
-  "id": 10195,
+  "id": 70981,
   "original_language": "en",
-  "original_title": "Thor",
-  "overview": "Thor, le héros du nouveau film issu de l'univers Marvel, est un guerrier tout-puissant et arrogant dont les actes téméraires font renaître de nos jours un conflit ancestral. À cause de cela, il est banni du Royaume mythique d’Asgard et est condamné à vivre parmi les humains. Mais lorsque les forces du Mal d’Asgard s’apprêtent à envahir la Terre, Thor découvre enfin ce que signifie \"être un héros\".",
-  "popularity": 78.975,
-  "poster_path": "/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg",
-  "release_date": "2011-04-21",
-  "title": "Thor",
+  "original_title": "Prometheus",
+  "overview": "Lorsqu'Elisabeth Shaw découvre un mystérieux lien entre plusieurs artefacts au cours de ses recherches, elle est persuadée qu'il s'agit d'un indice remettant en cause l'origine de l'humanité sur Terre. Une équipe de scientifiques supervisée par Meredith Vickers et l'androïde David se lance alors dans un voyage spatial fascinant aux confins de l'univers, vers un monde inconnu. Là-bas, un affrontement terrifiant qui décidera de l'avenir de l'humanité les attend…",
+  "popularity": 78.232,
+  "poster_path": "/p3B5dRNXnpBNGR16r0zdLiMuvMb.jpg",
+  "release_date": "2012-05-30",
+  "title": "Prometheus",
   "video": false,
-  "vote_average": 6.768,
-  "vote_count": 20696
+  "vote_average": 6.552,
+  "vote_count": 11772
 }
