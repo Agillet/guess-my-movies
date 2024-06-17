@@ -1,19 +1,21 @@
 {
   "adult": false,
-  "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+  "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
   "genre_ids": [
-    10749,
-    18
+    28,
+    12,
+    878,
+    53
   ],
-  "id": 613504,
+  "id": 351286,
   "original_language": "en",
-  "original_title": "After We Collided",
-  "overview": "Alors que Tessa et Hardin tentent de recoller les morceaux de leur relation, de nouveaux obstacles viennent se mettre en travers de leur histoire d'amour et de nouveaux secrets sont dévoilés. Mais tout ça n'est rien comparé à l'arrivée du beau Trevor dans la vie de Tessa, qui va s'attirer les foudres d'Hardin, conscient de la menace que ce nouveau prétendant représente.",
-  "popularity": 65.804,
-  "poster_path": "/snLPWn7c9V4KCgKqv0VneOzK7O5.jpg",
-  "release_date": "2020-09-02",
-  "title": "After - Chapitre 2",
+  "original_title": "Jurassic World: Fallen Kingdom",
+  "overview": "Cela fait maintenant trois ans que les dinosaures se sont échappés de leurs enclos et ont détruit le parc à thème et complexe de luxe Jurassic World. Isla Nublar a été abandonnée par les humains alors que les dinosaures survivants sont livrés à eux-mêmes dans la jungle. Lorsque le volcan inactif de l'île commence à rugir, Owen et Claire s’organisent pour sauver les dinosaures restants de l’extinction.",
+  "popularity": 75.916,
+  "poster_path": "/1s6V2kzHaeWUlk34oYu3yXuFdeC.jpg",
+  "release_date": "2018-06-06",
+  "title": "Jurassic World : Fallen Kingdom",
   "video": false,
-  "vote_average": 7.2,
-  "vote_count": 5210
+  "vote_average": 6.545,
+  "vote_count": 11501
 }
