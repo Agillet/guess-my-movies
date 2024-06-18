@@ -1,21 +1,18 @@
 {
   "adult": false,
-  "backdrop_path": "/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+  "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
   "genre_ids": [
-    28,
-    12,
-    878,
-    53
+    27
   ],
-  "id": 351286,
+  "id": 968051,
   "original_language": "en",
-  "original_title": "Jurassic World: Fallen Kingdom",
-  "overview": "Cela fait maintenant trois ans que les dinosaures se sont échappés de leurs enclos et ont détruit le parc à thème et complexe de luxe Jurassic World. Isla Nublar a été abandonnée par les humains alors que les dinosaures survivants sont livrés à eux-mêmes dans la jungle. Lorsque le volcan inactif de l'île commence à rugir, Owen et Claire s’organisent pour sauver les dinosaures restants de l’extinction.",
-  "popularity": 75.916,
-  "poster_path": "/1s6V2kzHaeWUlk34oYu3yXuFdeC.jpg",
-  "release_date": "2018-06-06",
-  "title": "Jurassic World : Fallen Kingdom",
+  "original_title": "The Nun II",
+  "overview": "En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement. Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
+  "popularity": 142.066,
+  "poster_path": "/yOrY0pByezFe8Eo3AcxW5zCBj5w.jpg",
+  "release_date": "2023-09-06",
+  "title": "La Nonne : La Malédiction de Sainte-Lucie",
   "video": false,
-  "vote_average": 6.545,
-  "vote_count": 11501
+  "vote_average": 6.798,
+  "vote_count": 1841
 }
