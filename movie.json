@@ -1,18 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
+  "backdrop_path": "/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg",
   "genre_ids": [
-    27
+    80,
+    35,
+    28
   ],
-  "id": 968051,
+  "id": 402900,
   "original_language": "en",
-  "original_title": "The Nun II",
-  "overview": "En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement. Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
-  "popularity": 142.066,
-  "poster_path": "/yOrY0pByezFe8Eo3AcxW5zCBj5w.jpg",
-  "release_date": "2023-09-06",
-  "title": "La Nonne : La Malédiction de Sainte-Lucie",
+  "original_title": "Ocean's Eight",
+  "overview": "La sœur de Danny Ocean rassemble les talents d'une dizaine de ses consœurs pour mettre la main sur un collier très convoité et ainsi confondre un bijoutier crapuleux.",
+  "popularity": 113.489,
+  "poster_path": "/9fxmD5um8kqj3lCV3TBVKJqRB4P.jpg",
+  "release_date": "2018-06-07",
+  "title": "Ocean's 8",
   "video": false,
-  "vote_average": 6.798,
-  "vote_count": 1841
+  "vote_average": 7,
+  "vote_count": 8115
 }
