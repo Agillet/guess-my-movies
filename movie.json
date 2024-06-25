@@ -1,21 +1,21 @@
 {
   "adult": false,
-  "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
   "genre_ids": [
     28,
-    12,
-    14,
-    878
+    80,
+    18,
+    53
   ],
-  "id": 19995,
+  "id": 395990,
   "original_language": "en",
-  "original_title": "Avatar",
-  "overview": "Un marine paraplégique, envoyé sur la lune Pandora pour une mission unique, est tiraillé entre suivre ses ordres et protéger le monde qu'il considère dorénavant comme le sien.",
-  "popularity": 128.898,
-  "poster_path": "/2aYUxWJxtO621NSFpI49o6I1jTQ.jpg",
-  "release_date": "2009-12-15",
-  "title": "Avatar",
+  "original_title": "Death Wish",
+  "overview": "Quand il ne sauve pas des vies, Paul Kersey, chirurgien urgentiste, mène une vie de rêve, en famille, dans les beaux quartiers de Chicago… Jusqu’au jour où tout bascule. Sa femme est sauvagement tuée lors d’un cambriolage qui tourne mal… Sa fille de 18 ans est plongée dans le coma. Face à la lenteur de l’enquête, il se lance dans une chasse à l’homme sans merci.",
+  "popularity": 226.473,
+  "poster_path": "/pt9MeDGw983Foibu1O37qJoakFZ.jpg",
+  "release_date": "2018-03-02",
+  "title": "Death Wish",
   "video": false,
-  "vote_average": 7.582,
-  "vote_count": 30973
+  "vote_average": 6.163,
+  "vote_count": 2496
 }
