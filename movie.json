@@ -1,21 +1,18 @@
 {
   "adult": false,
-  "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+  "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
   "genre_ids": [
-    28,
-    80,
-    18,
-    53
+    27
   ],
-  "id": 395990,
+  "id": 968051,
   "original_language": "en",
-  "original_title": "Death Wish",
-  "overview": "Quand il ne sauve pas des vies, Paul Kersey, chirurgien urgentiste, mène une vie de rêve, en famille, dans les beaux quartiers de Chicago… Jusqu’au jour où tout bascule. Sa femme est sauvagement tuée lors d’un cambriolage qui tourne mal… Sa fille de 18 ans est plongée dans le coma. Face à la lenteur de l’enquête, il se lance dans une chasse à l’homme sans merci.",
-  "popularity": 226.473,
-  "poster_path": "/pt9MeDGw983Foibu1O37qJoakFZ.jpg",
-  "release_date": "2018-03-02",
-  "title": "Death Wish",
+  "original_title": "The Nun II",
+  "overview": "En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement. Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
+  "popularity": 152.016,
+  "poster_path": "/yOrY0pByezFe8Eo3AcxW5zCBj5w.jpg",
+  "release_date": "2023-09-06",
+  "title": "La Nonne : La Malédiction de Sainte-Lucie",
   "video": false,
-  "vote_average": 6.163,
-  "vote_count": 2496
+  "vote_average": 6.788,
+  "vote_count": 1852
 }
