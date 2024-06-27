@@ -1,18 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
+  "backdrop_path": "/xvBcBNG6hsluST0l1bNnOIMUJb0.jpg",
   "genre_ids": [
-    27
+    35,
+    10749,
+    18
   ],
-  "id": 968051,
+  "id": 10184,
   "original_language": "en",
-  "original_title": "The Nun II",
-  "overview": "En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement. Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
-  "popularity": 152.016,
-  "poster_path": "/yOrY0pByezFe8Eo3AcxW5zCBj5w.jpg",
-  "release_date": "2023-09-06",
-  "title": "La Nonne : La Malédiction de Sainte-Lucie",
+  "original_title": "He's Just Not That Into You",
+  "overview": "Ce que pensent les hommes est une réjouissante comédie romantique qui dresse un portrait provocateur, hilarant et libérateur de l'incompréhension entre hommes et femmes. Tandis qu'un groupe de jeunes femmes brillantes, originales et extrêmement déterminées s'efforcent de déchiffrer le langage amoureux, elles nous entraînent dans une réjouissante quête éperdue du grand amour… Une chose reste certaine : s'il ne vous appelle pas, s'il ne couche pas avec vous, s'il est marié à quelqu'un d'autre ou s'il couche avec une autre… il y a de grandes chances qu'il ne s'intéresse pas à vous !",
+  "popularity": 60.761,
+  "poster_path": "/wj7dx5wJ6pG9A7zRuZtquvQjLeW.jpg",
+  "release_date": "2009-02-06",
+  "title": "Ce que pensent les hommes",
   "video": false,
-  "vote_average": 6.788,
-  "vote_count": 1852
+  "vote_average": 6.549,
+  "vote_count": 3548
 }
