@@ -1,21 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+  "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
   "genre_ids": [
-    10751,
-    16,
-    10402,
-    12
+    878,
+    12,
+    28
   ],
-  "id": 354912,
+  "id": 609681,
   "original_language": "en",
-  "original_title": "Coco",
-  "overview": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent, Miguel, par un étrange concours de circonstances, se retrouve propulsé dans un monde étonnant et coloré lié aux célébrations des ancêtres. Là, il se lie d’amitié avec Hector, un gentil garçon mais un peu filou sur les bords. Ensemble, ils vont accomplir un voyage extraordinaire qui leur révèlera la véritable histoire qui se cache derrière celle de la famille de Miguel…",
-  "popularity": 145.823,
-  "poster_path": "/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
-  "release_date": "2017-10-27",
-  "title": "Coco",
+  "original_title": "The Marvels",
+  "overview": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
+  "popularity": 183.049,
+  "poster_path": "/mqAQO6j5gkq6iwCXNbXpzf0RXBU.jpg",
+  "release_date": "2023-11-08",
+  "title": "The Marvels",
   "video": false,
-  "vote_average": 8.213,
-  "vote_count": 18925
+  "vote_average": 6.123,
+  "vote_count": 2421
 }
