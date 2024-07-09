@@ -1,20 +1,19 @@
 {
   "adult": false,
-  "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+  "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
   "genre_ids": [
-    878,
     12,
-    28
+    14
   ],
-  "id": 609681,
+  "id": 674,
   "original_language": "en",
-  "original_title": "The Marvels",
-  "overview": "Carol Danvers, alias Captain Marvel, a récupéré son identité auprès du tyrannique Kree et s'est vengée du renseignement suprême. Cependant, des conséquences inattendues la voient assumer le fardeau d'un univers déstabilisé. Lorsque ses fonctions l'envoient dans un trou de ver anormal lié à un révolutionnaire Kree, ses pouvoirs s'entremêlent avec deux autres superhéros pour former les Marvels.",
-  "popularity": 183.049,
-  "poster_path": "/mqAQO6j5gkq6iwCXNbXpzf0RXBU.jpg",
-  "release_date": "2023-11-08",
-  "title": "The Marvels",
+  "original_title": "Harry Potter and the Goblet of Fire",
+  "overview": "La quatrième année à l’école de Poudlard est marquée par le « Tournoi des trois sorciers ». Les participants sont choisis par la fameuse « Coupe de feu » qui est à l’origine d’un scandale. Elle sélectionne Harry Potter alors qu’il n’a pas l’âge légal requis ! Accusé de tricherie et mis à mal par une série d’épreuves physiques de plus en plus difficiles, ce dernier sera enfin confronté à Celui dont on ne doit pas prononcer le nom, Lord V.",
+  "popularity": 167.525,
+  "poster_path": "/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg",
+  "release_date": "2005-11-16",
+  "title": "Harry Potter et la Coupe de feu",
   "video": false,
-  "vote_average": 6.123,
-  "vote_count": 2421
+  "vote_average": 7.815,
+  "vote_count": 20224
 }
