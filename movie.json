@@ -1,23 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
+  "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
   "genre_ids": [
-    14,
-    28,
-    12,
+    10751,
     16,
-    35,
-    10751
+    18
   ],
-  "id": 82702,
+  "id": 8587,
   "original_language": "en",
-  "original_title": "How to Train Your Dragon 2",
-  "overview": "Tandis qu’Astrid, Rustik et le reste de la bande se défient durant des courses sportives de dragons devenues populaires sur l’île, notre duo désormais inséparable parcourt les cieux, à la découverte de territoires inconnus et de nouveaux mondes. Au cours de l’une de leurs aventures, ils découvrent une grotte secrète qui abrite des centaines de dragons sauvages, dont le mystérieux Dragon Rider. Les deux amis se retrouvent alors au centre d’une lutte visant à maintenir la paix. Harold et Krokmou vont se battre pour défendre leurs valeurs et préserver le destin des hommes et des dragons.",
-  "popularity": 120.442,
-  "poster_path": "/7SQtnwpnWmkY6UHdnG6LjiZSnkl.jpg",
-  "release_date": "2014-06-05",
-  "title": "Dragons 2",
+  "original_title": "The Lion King",
+  "overview": "Disney présente l'histoire de Simba, un fougueux lionceau qui « voudrait déjà être roi ». Éloigné par son sombre et ambitieux oncle Scar, Simba profite de la vie avec ses drôles de compagnons Timon et Pumbaa, oubliant son rang et ses responsabilités. Mais son destin l'appelle à rentrer auprès des siens et à reprendre sa place dans le Grand Cercle de la Vie.",
+  "popularity": 173.916,
+  "poster_path": "/n6UChiAOSTHGih2FBactLjA4Cdt.jpg",
+  "release_date": "1994-06-24",
+  "title": "Le Roi lion",
   "video": false,
-  "vote_average": 7.675,
-  "vote_count": 9356
+  "vote_average": 8.256,
+  "vote_count": 17875
 }
