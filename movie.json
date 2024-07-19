@@ -1,20 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+  "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
   "genre_ids": [
-    28,
-    35,
-    53
+    27,
+    53,
+    12
   ],
-  "id": 718930,
+  "id": 578,
   "original_language": "en",
-  "original_title": "Bullet Train",
-  "overview": "Coccinelle est un assassin malchanceux et particulièrement déterminé à accomplir sa nouvelle mission paisiblement après que trop d'entre elles aient déraillé. Mais le destin en a décidé autrement et l'embarque dans le train le plus rapide au monde aux côtés d'adversaires redoutables qui ont tous un point commun, mais dont les intérêts divergent radicalement… Il doit alors tenter par tous les moyens de descendre du train.",
-  "popularity": 104.83,
-  "poster_path": "/uJvMXO1DNEER2lZocNjJy2zXtYs.jpg",
-  "release_date": "2022-08-03",
-  "title": "Bullet Train",
+  "original_title": "Jaws",
+  "overview": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès des plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
+  "popularity": 109.628,
+  "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
+  "release_date": "1975-06-20",
+  "title": "Les Dents de la mer",
   "video": false,
-  "vote_average": 7.47,
-  "vote_count": 5830
+  "vote_average": 7.7,
+  "vote_count": 10145
 }
