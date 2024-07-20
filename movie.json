@@ -1,20 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+  "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
   "genre_ids": [
-    27,
-    53,
-    12
+    28,
+    12,
+    878
   ],
-  "id": 578,
+  "id": 284053,
   "original_language": "en",
-  "original_title": "Jaws",
-  "overview": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès des plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
-  "popularity": 109.628,
-  "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
-  "release_date": "1975-06-20",
-  "title": "Les Dents de la mer",
+  "original_title": "Thor: Ragnarok",
+  "overview": "Thor est emprisonné de l’autre côté de l’univers sans son puissant marteau et se retrouve engagé dans une course contre le temps pour rejoindre Asgard et arrêter Ragnarok – la destruction de son monde natal et la fin de la civilisation Asgardienne – des mains d’une toute nouvelle menace, l’impitoyable Hela. Mais d’abord, il doit survivre à une compétition meurtrière de gladiateurs qui l’oppose à son ancien allié et compagnon Avenger – l’Incroyable Hulk !",
+  "popularity": 90.429,
+  "poster_path": "/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg",
+  "release_date": "2017-10-02",
+  "title": "Thor : Ragnarok",
   "video": false,
-  "vote_average": 7.7,
-  "vote_count": 10145
+  "vote_average": 7.594,
+  "vote_count": 20393
 }
