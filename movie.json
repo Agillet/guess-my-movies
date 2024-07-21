@@ -1,20 +1,19 @@
 {
   "adult": false,
-  "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+  "backdrop_path": "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
   "genre_ids": [
-    28,
-    12,
-    878
+    14,
+    12
   ],
-  "id": 284053,
+  "id": 338953,
   "original_language": "en",
-  "original_title": "Thor: Ragnarok",
-  "overview": "Thor est emprisonné de l’autre côté de l’univers sans son puissant marteau et se retrouve engagé dans une course contre le temps pour rejoindre Asgard et arrêter Ragnarok – la destruction de son monde natal et la fin de la civilisation Asgardienne – des mains d’une toute nouvelle menace, l’impitoyable Hela. Mais d’abord, il doit survivre à une compétition meurtrière de gladiateurs qui l’oppose à son ancien allié et compagnon Avenger – l’Incroyable Hulk !",
-  "popularity": 90.429,
-  "poster_path": "/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg",
-  "release_date": "2017-10-02",
-  "title": "Thor : Ragnarok",
+  "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+  "overview": "Le professeur Albus Dumbledore sait que le puissant mage noir Gellert Grindelwald cherche à prendre le contrôle du monde des sorciers. Incapable de l’empêcher d’agir seul, il sollicite le magizoologiste Norbert Dragonneau pour qu’il réunisse des sorciers, des sorcières et un boulanger moldu au sein d’une équipe intrépide. Leur mission des plus périlleuses les amènera à affronter des animaux, anciens et nouveaux, et les disciples de plus en plus nombreux de Grindelwald. Pourtant, dès lors que que les enjeux sont aussi élevés, Dumbledore pourra-t-il encore rester longtemps dans l’ombre ?",
+  "popularity": 100.18,
+  "poster_path": "/gzvSMS4MqBg2ThgGOS2YkNkoebf.jpg",
+  "release_date": "2022-04-06",
+  "title": "Les Animaux fantastiques : Les Secrets de Dumbledore",
   "video": false,
-  "vote_average": 7.594,
-  "vote_count": 20393
+  "vote_average": 6.663,
+  "vote_count": 4312
 }
