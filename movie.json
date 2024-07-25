@@ -1,20 +1,20 @@
 {
   "adult": false,
-  "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+  "backdrop_path": "/zRQITMLvVi8z2Xz12Bi6wvbZE82.jpg",
   "genre_ids": [
-    27,
-    53,
-    12
+    35,
+    28,
+    14
   ],
-  "id": 578,
+  "id": 594767,
   "original_language": "en",
-  "original_title": "Jaws",
-  "overview": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès des plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
-  "popularity": 118.286,
-  "poster_path": "/wuRf6gkX0JUJsu1MeECPubhMRdd.jpg",
-  "release_date": "1975-06-20",
-  "title": "Les Dents de la mer",
+  "original_title": "Shazam! Fury of the Gods",
+  "overview": "Investis des pouvoirs des dieux, Billy Batson et ses copains apprennent encore à concilier leur vie d’ados avec leurs responsabilités de super-héros dès lors qu’ils se transforment en adultes. Mais quand les Filles de l’Atlas, trio d’anciennes déesses ivres de vengeance, débarquent sur Terre pour retrouver la magie qu’on leur a volée il y a longtemps, Billy, alias Shazam, et sa famille s’engagent dans une bataille destinée à conserver leurs superpouvoirs, à rester en vie et à sauver la planète. Mais une bande d’adolescents peut-elle vraiment empêcher la destruction du monde ? Et, surtout, Billy en a-t-il seulement envie ... ?",
+  "popularity": 110.771,
+  "poster_path": "/iz2V6Wc5eVVBbUqlTIkY4SrS5nW.jpg",
+  "release_date": "2023-03-15",
+  "title": "Shazam! La Rage des dieux",
   "video": false,
-  "vote_average": 7.664,
-  "vote_count": 10157
+  "vote_average": 6.546,
+  "vote_count": 2958
 }
